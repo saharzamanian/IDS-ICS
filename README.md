@@ -1,4 +1,4 @@
-# IDS-ICS — Deep Learning for Intrusion Detection in Industrial Control Systems
+# Intrusion Detection System (IDS) for Industrial Control Systems (ICS) - Deep Learning for Intrusion Detection in Industrial Control Systems
 
 **Research project | Network security | Industrial Control Systems (ICS) | Recurrent neural networks**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Industrial Control Systems (ICS) support physical processes, where detecting malicious network activity is especially important. This project investigates how recurrent neural network (RNN) models can distinguish attack-related network traffic in an ICS setting.
+ICS supports physical processes, where detecting malicious network activity is especially important. This project investigates how recurrent neural network (RNN) models can distinguish attack-related network traffic in an ICS setting.
 
 The research associated with this repository was published at **IEEE ISCC 2025**:
 
